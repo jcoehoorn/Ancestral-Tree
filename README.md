@@ -42,7 +42,7 @@ Future plans may include:
 9. Documentation: user and developer.
 1. Internationalization.
 
-This program is both a demo of my GEDCOM library: [YAGP](https://github.com/user/fire-eggs/yagp), and a hopefully useful program in itself.
+This program is both a demo of my GEDCOM library: [YAGP](https://github.com/fire-eggs/yagp), and a hopefully useful program in itself.
 
 References:
 - Heavily based on the .NET port of Abego Treelayout [link](https://sourceforge.net/projects/citexplore-code-treelayout/).
